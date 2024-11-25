@@ -1,5 +1,6 @@
 <img src="https://github.com/user-attachments/assets/f0fad78f-4d9d-400e-aebe-587f7698c652" style="width: 800px;"/>
 <h1>Hi! My name is Eihyun</h1>
+<p>It’s pronounced /ee-hjə•n/</p>
 
 <br>
 <h2> My Tech Stacks </h2>
